@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMS_lab</string>
+    <string name="titleLab1">General</string>
+    <string name="titleLab2">Drawing</string>
+    <string name="titleLab3">Movies list</string>
+    <string name="diagram">Diagram</string>
+</resources>
